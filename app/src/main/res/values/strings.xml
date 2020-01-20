@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Jadwal Kuliah</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="senin">SENIN</string>
+    <string name="mpik">MPIK</string>
+    <string name="_17_00_18_30">17.00 - 18:30</string>
+    <string name="ict">ICT 2</string>
+    <string name="kj">Keamanan Jaringan</string>
+    <string name="_19_00">19:00 - 20:30</string>
+    <string name="a302">302A</string>
+    <string name="selasa">SELASA</string>
+
+    <string name="_17">17.00 - 18:30</string>
+    <string name="kripto">Kriptografi</string>
+    <string name="ict2">ICT 2</string>
+    <string name="mobile">Pemrograman Mobile [Teori]</string>
+    <string name="selasa19">19:00 - 20:30</string>
+    <string name="a303">303 A</string>
+
+    <string name="rabu">RABU</string>
+    <string name="pmobile">P. Mobile [Pratikum]</string>
+    <string name="rabu2">19:00 - 20:30</string>
+    <string name="lab1">LAB 1 A</string>
+
+    <string name="kamis">KAMIS</string>
+    <string name="kamis1">17.00 - 18:30</string>
+    <string name="spt">Sispar[Teori]</string>
+    <string name="gk">Grafika Komputer</string>
+    <string name="d105">105 D</string>
+
+    <string name="jumat">JUMAT</string>
+    <string name="sptp">Sispar [Pratikum]</string>
+    <string name="lab4">LAB 4 GSG</string>
+    <string name="kjp">Keamanan Jaringan [Pratikum]</string>
+    <string name="lab2a">LAB 2 A</string>
+
+    <string name="minimum_password">Minimal 6 Karakter !</string>
+    <string name="auth_failed">Email atau Password Salah !</string>
+    <string name="welcome">Selamat Datang Gan !</string>
+    <string name="logout">Keluar</string>
+    <string name="lupa_password">Lupa Password</string>
+    <string name="nomor_handphone">Nomor Handphone</string>
+
+
+</resources>
